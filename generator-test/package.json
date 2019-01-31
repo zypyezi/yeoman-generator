@@ -1,0 +1,17 @@
+{
+  "name": "generator-test",
+  "version": "0.0.1",
+  "description": "",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "generator-generator": "^4.0.2",
+    "ora": "^3.0.0",
+    "shelljs": "^0.8.3",
+    "yeoman-generator": "^3.2.0"
+  }
+}
